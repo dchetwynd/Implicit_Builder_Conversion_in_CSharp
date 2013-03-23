@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderImplicitConversion", "BuilderImplicitConversion\BuilderImplicitConversion.csproj", "{8D14F0C7-4FC9-4B1D-BC38-677AD788B0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderImplicitConversion.Tests", "BuilderImplicitConversion.Tests\BuilderImplicitConversion.Tests.csproj", "{F89B966C-7FD2-4FD5-A530-6A048FD7B976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D14F0C7-4FC9-4B1D-BC38-677AD788B0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D14F0C7-4FC9-4B1D-BC38-677AD788B0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D14F0C7-4FC9-4B1D-BC38-677AD788B0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D14F0C7-4FC9-4B1D-BC38-677AD788B0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89B966C-7FD2-4FD5-A530-6A048FD7B976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89B966C-7FD2-4FD5-A530-6A048FD7B976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89B966C-7FD2-4FD5-A530-6A048FD7B976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89B966C-7FD2-4FD5-A530-6A048FD7B976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
